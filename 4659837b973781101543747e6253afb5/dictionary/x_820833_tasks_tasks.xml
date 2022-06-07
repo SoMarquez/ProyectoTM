@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="tasks" max_length="40" name="x_820833_tasks_tasks" type="collection">
+        <element display="true" label="Clientid" max_length="50" name="clientid" type="integer"/>
+        <element label="comments" max_length="10000" name="comments" type="747127c1bf3320001875647fcf0739e0"/>
+        <element label="Deliverydate" max_length="40" name="deliverydate" type="glide_date_time"/>
+        <element label="Description" max_length="200" name="description" type="747127c1bf3320001875647fcf0739e0"/>
+        <element label="Developerid" max_length="50" name="developerid" type="integer"/>
+        <element choice="3" label="Importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element dependent_value="high" inactive_on_update="false" label="High" value="high"/>
+                <element inactive_on_update="false" label="Low" value="Low"/>
+                <element inactive_on_update="false" label="Medium" value="Medium"/>
+            </choice>
+        </element>
+        <element label="Senddate" max_length="40" name="senddate" type="glide_date_time"/>
+        <element label="shortDesc" max_length="80" name="shortdesc" type="747127c1bf3320001875647fcf0739e0"/>
+        <element label="Taskid" max_length="50" name="taskid" type="integer"/>
+        <element label="Time" max_length="40" name="time" type="glide_duration"/>
+    </element>
+</database>

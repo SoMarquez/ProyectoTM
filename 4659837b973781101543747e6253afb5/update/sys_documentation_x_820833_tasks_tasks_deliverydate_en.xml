@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="deliverydate" label="Deliverydate" language="en" table="x_820833_tasks_tasks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>deliverydate</element>
+            <help/>
+            <hint/>
+            <label>Deliverydate</label>
+            <language>en</language>
+            <name>x_820833_tasks_tasks</name>
+            <plural>Deliverydates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-07 12:26:13</sys_created_on>
+            <sys_id>45609773977781101543747e6253af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Deliverydate</sys_name>
+            <sys_package display_value="Tasks" source="x_820833_tasks">4659837b973781101543747e6253afb5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tasks">4659837b973781101543747e6253afb5</sys_scope>
+            <sys_update_name>sys_documentation_x_820833_tasks_tasks_deliverydate_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-07 12:26:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
