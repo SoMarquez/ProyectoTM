@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Incidents" max_length="40" name="x_828764_incidents_incidents" type="collection">
+        <element label="description" max_length="400" name="description" type="string"/>
+        <element label="developerid" max_length="40" name="developerid" type="integer"/>
+        <element label="eventdate" max_length="40" name="eventdate" type="glide_date"/>
+        <element label="incidentsid" max_length="40" name="incidentsid" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="participantes" max_length="300" name="participantes" type="string"/>
+        <element choice="1" label="severity" max_length="40" name="severity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High"/>
+                <element inactive_on_update="false" label="Low"/>
+                <element inactive_on_update="false" label="Medium"/>
+            </choice>
+        </element>
+        <element label="shortDesc" max_length="40" name="shortdesc" type="string"/>
+        <element label="solution" max_length="500" name="solution" type="string"/>
+        <element label="solutiondate" max_length="40" name="solutiondate" type="glide_date"/>
+        <element label="taskid" max_length="40" name="taskid" type="integer"/>
+    </element>
+</database>
