@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="PruebaTable">9a80cd454754511056d7cc88f36d4372</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>PruebaTables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_828129_teamm_pruebatable</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_828129_teamm.pruebatable_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin4</sys_created_by>
+        <sys_created_on>2022-06-23 09:25:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1680cd454754511056d7cc88f36d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PruebaTables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TeamM" source="x_828129_teamm">6afcb0944708911056d7cc88f36d43e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</sys_scope>
+        <sys_update_name>sys_app_module_1680cd454754511056d7cc88f36d4376</sys_update_name>
+        <sys_updated_by>admin4</sys_updated_by>
+        <sys_updated_on>2022-06-23 09:25:48</sys_updated_on>
+        <timeline_page/>
+        <title>PruebaTables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</application>
+        <file_path/>
+        <instance_id>ccd8333fdbdb85d4387021c4059619ec</instance_id>
+        <instance_name>dev127790</instance_name>
+        <name>sys_app_module_1680cd454754511056d7cc88f36d4376</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="PruebaTable">9a80cd454754511056d7cc88f36d4372</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>PruebaTables</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_828129_teamm_pruebatable</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_828129_teamm.pruebatable_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin4</sys_created_by><sys_created_on>2022-06-23 09:25:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1680cd454754511056d7cc88f36d4376</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PruebaTables</sys_name><sys_overrides/><sys_package display_value="TeamM" source="x_828129_teamm">6afcb0944708911056d7cc88f36d43e4</sys_package><sys_policy/><sys_scope display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</sys_scope><sys_update_name>sys_app_module_1680cd454754511056d7cc88f36d4376</sys_update_name><sys_updated_by>admin4</sys_updated_by><sys_updated_on>2022-06-23 09:25:48</sys_updated_on><timeline_page/><title>PruebaTables</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>171220968</payload_hash>
+        <record_name>PruebaTables</record_name>
+        <reverted_from/>
+        <source>07bb3c014754511056d7cc88f36d43a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin4</sys_created_by>
+        <sys_created_on>2022-06-23 09:25:48</sys_created_on>
+        <sys_id>5680cd454754511056d7cc88f36d4379</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1818fe1cc9c0000001</sys_recorded_at>
+        <sys_updated_by>admin4</sys_updated_by>
+        <sys_updated_on>2022-06-23 09:25:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9e80cd4537545110c4a4dde918dd6a78</update_guid>
+        <update_guid_history>9e80cd4537545110c4a4dde918dd6a78:171220968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="PruebaTables">48e2c5094754511056d7cc88f36d43b8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin4</sys_created_by>
+        <sys_created_on>2022-06-23 09:36:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>04743f97e9b145f69fe8b65f365707e4</sys_id>
+        <sys_metadata>1680cd454754511056d7cc88f36d4376</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PruebaTables</sys_name>
+        <sys_package display_value="TeamM" source="x_828129_teamm">6afcb0944708911056d7cc88f36d43e4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</sys_scope>
+        <sys_scope_delete display_value="">8faa85ff0aea426e901627c9a2edf0a9</sys_scope_delete>
+        <sys_update_name>sys_app_module_1680cd454754511056d7cc88f36d4376</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1680cd454754511056d7cc88f36d4376">5680cd454754511056d7cc88f36d4379</sys_update_version>
+        <sys_updated_by>admin4</sys_updated_by>
+        <sys_updated_on>2022-06-23 09:36:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
