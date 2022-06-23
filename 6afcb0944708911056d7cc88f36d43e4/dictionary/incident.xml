@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="68" text_index="true" type="collection">
+        <element label="developerid" max_length="50" name="x_828129_teamm_developerid" type="integer"/>
+        <element label="eventdate" max_length="40" name="x_828129_teamm_eventdate" type="glide_date"/>
+        <element label="solution" max_length="300" name="x_828129_teamm_solution" type="string"/>
+        <element label="solutiondate" max_length="40" name="x_828129_teamm_solutiondate" type="glide_date"/>
+        <element label="taskid" max_length="50" name="x_828129_teamm_taskid" type="integer"/>
+    </element>
+</database>

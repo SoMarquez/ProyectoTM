@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Change Request" max_length="40" name="change_request" sizeclass="100" text_index="true" type="collection">
+        <element label="clientid" max_length="50" name="x_828129_teamm_clientid" type="integer"/>
+        <element label="comments" max_length="10000" name="x_828129_teamm_comments" type="journal_list"/>
+        <element label="deliverydate" max_length="40" name="x_828129_teamm_deliverydate" type="glide_date_time"/>
+        <element label="description" max_length="350" name="x_828129_teamm_description" type="string"/>
+        <element label="developerid" max_length="50" name="x_828129_teamm_developerid" type="integer"/>
+        <element choice="1" label="importance" max_length="40" name="x_828129_teamm_importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="high" value="high"/>
+                <element inactive_on_update="false" label="low" value="low"/>
+                <element inactive_on_update="false" label="medium" value="medium"/>
+            </choice>
+        </element>
+        <element label="senddate" max_length="40" name="x_828129_teamm_senddate" type="glide_date_time"/>
+        <element display="true" label="shortDesc" max_length="80" name="x_828129_teamm_shortdesc" type="string"/>
+        <element label="taskid" max_length="50" name="x_828129_teamm_taskid" type="integer"/>
+        <element label="time" max_length="40" name="x_828129_teamm_time" type="glide_duration"/>
+    </element>
+</database>

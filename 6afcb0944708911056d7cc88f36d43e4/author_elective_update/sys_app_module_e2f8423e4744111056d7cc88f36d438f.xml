@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>false</active>
+        <application display_value="TeamM">75ddfc944708911056d7cc88f36d4307</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Client</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sys_client_interaction_details</name>
+        <order>15</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin3</sys_created_by>
+        <sys_created_on>2022-06-16 14:56:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e2f8423e4744111056d7cc88f36d438f</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Client</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TeamM" source="x_828129_teamm">6afcb0944708911056d7cc88f36d43e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</sys_scope>
+        <sys_update_name>sys_app_module_e2f8423e4744111056d7cc88f36d438f</sys_update_name>
+        <sys_updated_by>admin3</sys_updated_by>
+        <sys_updated_on>2022-06-16 15:37:53</sys_updated_on>
+        <timeline_page/>
+        <title>Client</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Client</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</application>
+        <file_path/>
+        <instance_id>ccd8333fdbdb85d4387021c4059619ec</instance_id>
+        <instance_name>dev127790</instance_name>
+        <name>sys_app_module_e2f8423e4744111056d7cc88f36d438f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>false</active><application display_value="TeamM">75ddfc944708911056d7cc88f36d4307</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Client</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_client_interaction_details</name><order>15</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin3</sys_created_by><sys_created_on>2022-06-16 14:56:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e2f8423e4744111056d7cc88f36d438f</sys_id><sys_mod_count>9</sys_mod_count><sys_name>Client</sys_name><sys_overrides/><sys_package display_value="TeamM" source="x_828129_teamm">6afcb0944708911056d7cc88f36d43e4</sys_package><sys_policy/><sys_scope display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</sys_scope><sys_update_name>sys_app_module_e2f8423e4744111056d7cc88f36d438f</sys_update_name><sys_updated_by>admin3</sys_updated_by><sys_updated_on>2022-06-16 15:37:53</sys_updated_on><timeline_page/><title>Client</title><uncancelable>false</uncancelable><view_name>Client</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1612748335</payload_hash>
+        <record_name>Client</record_name>
+        <reverted_from/>
+        <source>c6e7ba6745910110a86630cf9552f347</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin3</sys_created_by>
+        <sys_created_on>2022-06-16 15:37:53</sys_created_on>
+        <sys_id>a4929a764784111056d7cc88f36d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1816d29efc80000001</sys_recorded_at>
+        <sys_updated_by>admin3</sys_updated_by>
+        <sys_updated_on>2022-06-16 15:37:53</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ec929a76a2841110bd4e0be57440dcb1</update_guid>
+        <update_guid_history>ec929a76a2841110bd4e0be57440dcb1:1612748335,25711a368484111059786c23903b5fc3:-1851522578,d64eca322c84111037bf0e66db2d360d:1115334198,582ec272e48411107516ffee9a95d66c:1426009587,469d0a328d8411101c285f7bcbc92c10:1115334198,676d0632718411102817a7b97e8c2752:1426009587,a32d8afe36441110ad68d69727c92200:1115334198,783c06fea14411109f27eaa25de56608:1454429741,6b49c63e7e441110dff142070f485c96:-529815357,0b19423ed4441110cb1d142827268995:1454429741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Client">13a21e764784111056d7cc88f36d43b4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin3</sys_created_by>
+        <sys_created_on>2022-06-16 15:38:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2d4d0e8edc364d668a0260d7db1c5284</sys_id>
+        <sys_metadata>e2f8423e4744111056d7cc88f36d438f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Client</sys_name>
+        <sys_package display_value="TeamM" source="x_828129_teamm">6afcb0944708911056d7cc88f36d43e4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</sys_scope>
+        <sys_scope_delete display_value="">8faa85ff0aea426e901627c9a2edf0a9</sys_scope_delete>
+        <sys_update_name>sys_app_module_e2f8423e4744111056d7cc88f36d438f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e2f8423e4744111056d7cc88f36d438f">a4929a764784111056d7cc88f36d43b2</sys_update_version>
+        <sys_updated_by>admin3</sys_updated_by>
+        <sys_updated_on>2022-06-16 15:38:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

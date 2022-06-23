@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>TEMPLATENORMAL</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Form usado por nosotros. </short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin4</sys_created_by>
+        <sys_created_on>2022-06-22 10:54:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bbba40b847d0111056d7cc88f36d43ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATENORMAL</sys_name>
+        <sys_package display_value="TeamM" source="x_828129_teamm">6afcb0944708911056d7cc88f36d43e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamM">6afcb0944708911056d7cc88f36d43e4</sys_scope>
+        <sys_update_name>sys_template_bbba40b847d0111056d7cc88f36d43ad</sys_update_name>
+        <sys_updated_by>admin4</sys_updated_by>
+        <sys_updated_on>2022-06-22 10:54:55</sys_updated_on>
+        <table>u_task</table>
+        <template>u_clientid=^u_deliverydate=^u_description=^u_developerid=^u_importance=^u_senddate=^u_shortdesc=^u_taskid=^u_time=javascript:gs.getDurationDate('0 0:0:0')^EQ</template>
+        <user display_value="Jorge Calvellido">dfff3bcc4704911056d7cc88f36d43b9</user>
+        <view/>
+    </sys_template>
+</record_update>
